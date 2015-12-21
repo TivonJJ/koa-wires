@@ -1,0 +1,24 @@
+{
+  "name": "koa-wires",
+  "version": "0.0.1",
+  "description": "koa router with xml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TivonJJ/koa-wires.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TivonJJ/koa-wires/issues"
+  },
+  "homepage": "https://github.com/TivonJJ/koa-wires#readme",
+  "dependencies": {
+    "defaults": "^1.0.3",
+    "koa-router": "^5.3.0",
+    "xml2js": "^0.4.15"
+  }
+}
