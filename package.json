@@ -1,6 +1,6 @@
 {
   "name": "koa-wires",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "koa router with xml",
   "main": "index.js",
   "scripts": {
